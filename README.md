@@ -9,4 +9,6 @@ In summary, we began with a research stage, we used the search engine Google Sch
 
 Code source: https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/
 
+Initial code source: https://github.com/lucidrains/stylegan2-pytorch/blob/master/stylegan2_pytorch/stylegan2_pytorch.py
+
 General CIFAR-10 image generator code script: https://colab.research.google.com/drive/1CwW1i-esjX6T5bFD906qYzUXbb2iwi_l
